@@ -7,7 +7,7 @@ Create from 0 the main commands to work a database with Python.
 - Python
 - Flask
 
-### App
+### Features - APP
 - Create
 - Read
 - Update 
